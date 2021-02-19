@@ -1,0 +1,1 @@
+web: guniccorn run:trendyol_flask
