@@ -1,1 +1,1 @@
-web: guniccorn run:trendyol_flask
+web: gunicorn trendyol_flask:app
